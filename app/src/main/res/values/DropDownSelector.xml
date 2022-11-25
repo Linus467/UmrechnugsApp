@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Conversions_array">
+        <item>Dollar -> Euro</item>
+        <item>Dollar -> Pfund</item>
+        <item>Euro -> Dollar</item>
+        <item>Euro -> Pfund</item>
+        <item>Pfund -> Dollar</item>
+        <item>Pfund -> Euro</item>
+    </string-array>
+</resources>

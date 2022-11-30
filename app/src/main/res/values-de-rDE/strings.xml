@@ -5,4 +5,7 @@
     <string name="currency_converter">Umwandlungs Programm</string>
     <string name="todo">zu machen</string>
     <string name="convert">Konvertierer</string>
+    <string name="currFrom">Von</string>
+    <string name="currTo">Zu</string>
+    <string name="CurrError">Wählen Sie bitte zwei verschiedene währungen aus</string>
 </resources>

@@ -6,4 +6,8 @@
     <string name="todo">TODO</string>
     <string name="convert">converter</string>
     <string name="convertView" translatable="false">_</string>
+    <string name="currFrom">From</string>
+    <string name="currTo">To</string>
+    <string name="CurrError">Choose two different Currencies</string>
+    <string name="CurrErrorOK" translatable="false">OK</string>
 </resources>
